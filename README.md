@@ -12,9 +12,11 @@ Bu proje, modern ve mobil uyumlu bir spor salonu web sitesi tasarımıdır. HTML
 ## Ekran Görüntüleri
 ### Ana Sayfa
 ![Ana Sayfa Görüntüsü](images/index.png)
+![Ana Sayfa Görüntüsü](images/index2.png)
 
 ### Blog Sayfası
 ![Blog](images/blog.png)
+![Blog](images/blog2.png)
 
 ### İletişim Sayfası
 ![İletişim](images/iletisim.png)
